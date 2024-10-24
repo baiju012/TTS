@@ -39,3 +39,11 @@ The size of each model in MB.
 Transformers: For loading the tokenizer and managing text inputs.
 ESPnet Model Zoo: For downloading and using pre-trained TTS models.
 Torch: For running inference on the models.
+
+
+project work
+
+![image](https://github.com/user-attachments/assets/58f16192-4b20-4fb9-b834-23267d39a240)
+
+![image](https://github.com/user-attachments/assets/404b6fb2-3d25-488f-91ac-e21d1d8dbd4f)
+
