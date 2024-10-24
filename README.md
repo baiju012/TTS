@@ -28,6 +28,8 @@ The script tokenizes this input text for use with both models.
 ## 6. Benchmarking Metrics
 Inference Time: Measures the time taken by each model to generate output from the input text.
 Model Size: Calculates the size of each model in MB (megabytes).
+![image](https://github.com/user-attachments/assets/b1d29e21-c10e-4065-960d-34505009a3cc)
+
 
 ## 7. Expected Output
 Inference time (seconds) for both models.
